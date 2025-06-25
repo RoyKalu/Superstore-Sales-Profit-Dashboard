@@ -14,10 +14,10 @@ The dashboard emphasizes intuitive visualization and actionable insights, includ
   - **Total Profit:** Net profit earned.
   - **Average Order Value:** Insights into customer spending habits.
   - **Total Quantity Sold:** Volume of products sold.  
-  These KPIs provide an immediate high-level snapshot of the store’s financial health.
+  These KPIs provide an immediate, high-level snapshot of the store’s financial health.
 
 - **Geographical Performance Analysis:**
-  - **Top 15 Cities in Sales:** Highlights highest revenue-generating cities (e.g., New York City, Los Angeles, Seattle).
+  - **Top 15 Cities in Sales:** Highlights the highest revenue-generating cities (e.g., New York City, Los Angeles, Seattle).
   - **Profit by Region:** Breaks down profitability by region (West, South, East, Central) to compare regional performance.
 
 - **Temporal Sales Trends:**
@@ -34,17 +34,11 @@ The dashboard emphasizes intuitive visualization and actionable insights, includ
 - **Tableau Public:** Primary tool for data visualization and dashboard creation.
 - **Kaggle Superstore Sales Dataset:** Data extracted from a sample Superstore Excel dataset.
 
-## Access the Dashboard
-
-View the live interactive dashboard on Tableau Public:
-
-- **[https://public.tableau.com/app/profile/roy.kalu/viz/SuperstoreDashboard/SuperstoreSalesDashboard](https://public.tableau.com/app/profile/roy.kalu/viz/SuperstoreDashboard/SuperstoreSalesDashboard)**
-
 ### How to Use
 
-1. Click the link above to open the dashboard.
+1. Download the '.twbx' file 
 2. Hover over charts to explore data points in detail.
-3. Use filters or parameters (if available) to drill down into specific segments.
+3. Use filters or parameters to drill down into specific segments.
 
 ## Setup and Usage (For Developers)
 
